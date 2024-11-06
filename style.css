@@ -1,0 +1,22 @@
+
+html{
+  background-color: black;
+}
+#image{
+  width: 50%;
+  margin-left: 25%;
+  border: 10px solid white;
+}
+#heading{
+  color: white;
+  font-family: "Libre Baskerville" cursive;
+  text-align: center;
+}
+#statement{
+  color: white;
+  font-family: "Libre Baskerville" cursive;
+  text-align: center;
+}
+
+  
+
